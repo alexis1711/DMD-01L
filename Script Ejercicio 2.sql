@@ -1,0 +1,3 @@
+CREATE DATABASE Control_Ventas
+
+SELECT*FROM Query
