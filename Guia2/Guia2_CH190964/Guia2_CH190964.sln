@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Guia2_CH190964", "Guia2_CH190964\Guia2_CH190964.dtproj", "{3F49E0D0-66FC-494E-9C7F-45C7014F841F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F49E0D0-66FC-494E-9C7F-45C7014F841F}.Development|Default.ActiveCfg = Development
+		{3F49E0D0-66FC-494E-9C7F-45C7014F841F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E48F78-5AC6-492E-BA13-AB42CFABB41C}
+	EndGlobalSection
+EndGlobal
